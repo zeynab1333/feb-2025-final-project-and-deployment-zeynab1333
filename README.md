@@ -1,8 +1,12 @@
 E-commerce Website - Zbeauty
+
 Project Overview
+
 The Zbeauty website is an e-commerce platform that allows users to browse and purchase a variety of makeup products. Built using HTML, CSS, and JavaScript, this website features a responsive design, interactive elements, and a multi-page layout to create a seamless user experience. It aims to provide an intuitive, engaging platform for customers to explore different beauty products and make purchases.
 
 Technologies Used
+
+
 HTML5 - To structure the content of the website.
 
 CSS3 - To style the website and create a responsive design for different screen sizes.
@@ -12,6 +16,8 @@ JavaScript - To add interactivity and functionality, such as form validation, dy
 GitHub Pages- For deploying the website and making it accessible online.
 
 Features
+
+
 Responsive Design
 
 The website is fully responsive, ensuring a smooth user experience across various devices (desktop, tablet, mobile).
@@ -38,8 +44,7 @@ To get started with this project locally, clone the repository to your machine u
 
 bash
 Copy
-Edit
-git clone https://github.com/yourusername/zbeauty.git
+https://github.com/zeynab1333/feb-2025-final-project-and-deployment-zeynab1333.git
 Installation
 Open the project folder in your preferred code editor.
 
@@ -47,7 +52,7 @@ Open the index.html file in your browser to view the website.
 
 Deployment
 This project has been deployed and is live at:
-Deployment Link: [your link]
+Deployment Link: [https://zeynab1333.github.io/feb-2025-final-project-and-deployment-zeynab1333Thank]
 
 Future Enhancements
 User Authentication: Adding login/signup functionality for users to manage their accounts.
