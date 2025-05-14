@@ -58,8 +58,6 @@ nav .active {
 }
 
 
-/* here is the active thingy ill return after fixing js */
-
 .navbar li a {
   color: white;
   text-decoration: none;
@@ -100,8 +98,6 @@ nav .active {
 }
 
 
-
-
 /* Section Headings */
 section h2, #home h1 {
     color: rgb(99, 44, 53);
@@ -113,8 +109,8 @@ section h2, #home h1 {
     display: inline-block;
     background-color: #f8f8f8;
     padding: 10px 30px;
-    border-radius: 50px; /* This creates curved sides */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    border-radius: 50px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: center;
     margin: 20px auto;
     font-size: 24px;
@@ -177,7 +173,6 @@ button:hover {
 }
 
     
-
 /* Categories Section */
 #categories {
     display: grid;
@@ -266,11 +261,7 @@ input, select {
         justify-content: center;
     } 
 
-    /* .navbar {
-        flex-direction: row;
-        align-items: center;
-        text-align: center;
-    } */
+   
  }
 
 
@@ -342,8 +333,8 @@ input, select {
     display: inline-block;
     background-color: #f8f8f8;
     padding: 10px 30px;
-    border-radius: 50px; /* This creates curved sides */
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Soft shadow */
+    border-radius: 50px; 
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); 
     text-align: center;
     margin: 20px auto;
     font-size: 24px;
