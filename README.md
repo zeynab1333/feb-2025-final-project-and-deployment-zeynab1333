@@ -52,7 +52,7 @@ Open the index.html file in your browser to view the website.
 
 Deployment
 This project has been deployed and is live at:
-Deployment Link: [https://zeynab1333.github.io/feb-2025-final-project-and-deployment-zeynab1333Thank]
+Deployment Link: [https://zeynab1333.github.io/feb-2025-final-project-and-deployment-zeynab1333/]
 
 Future Enhancements
 User Authentication: Adding login/signup functionality for users to manage their accounts.
