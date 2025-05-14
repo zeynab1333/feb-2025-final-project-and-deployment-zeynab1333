@@ -1,11 +1,7 @@
-// ==============================
-// 🛒 Cart Logic
-// ==============================
-
 // Array to store cart items
 let cart = [];
 
-// Mock product prices (can be updated with real data)
+// Mock product prices 
 const productPrices = {
     "Lipstick": 15.00,
     "Foundation": 25.00,
@@ -25,7 +21,7 @@ function addToCart(productName) {
     if (!cart.includes(productName)) {
         cart.push(productName);
         updateCartDisplay();
-        alert(productName + " has been added to your cart."); // ✅ Show message immediately
+        alert(productName + " has been added to your cart."); 
     } else {
         alert(productName + " is already in your cart.");
     }
@@ -60,7 +56,7 @@ function updateCartDisplay() {
             
             const removeBtn = document.createElement("button");
             removeBtn.textContent = "Remove";
-            removeBtn.classList.add("remove-btn"); // CSS class for styling
+            removeBtn.classList.add("remove-btn"); 
             removeBtn.onclick = () => removeFromCart(index);
 
             li.appendChild(removeBtn);
@@ -88,18 +84,18 @@ function checkout() {
     }
 }
 
-// ==============================
+
 // 📦 Modal Logic (future use)
-// ==============================
+
 
 function closeModal() {
     const modal = document.getElementById("product-details-modal");
     if (modal) modal.style.display = "none";
 }
 
-// ==============================
+
 // 📩 Form Handling
-// ==============================
+
 
 document.addEventListener("DOMContentLoaded", function () {
     const contactForm = document.getElementById("contact-form");
